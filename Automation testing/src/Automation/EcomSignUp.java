@@ -25,7 +25,7 @@ public class EcomSignUp {
       
 
       //Enter email address
-      driver.findElement(By.cssSelector("[name='email_create']")).sendKeys("Srivamayank1402@gmail.com");
+      driver.findElement(By.cssSelector("[name='email_create']")).sendKeys("Srivastavamayank142@gmail.com");
 
       //Click on "Create an account"
       driver.findElement(By.xpath("//button[@name=\"SubmitCreate\"]")).click();
